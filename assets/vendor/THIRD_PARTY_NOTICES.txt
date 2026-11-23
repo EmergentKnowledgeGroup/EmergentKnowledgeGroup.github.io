@@ -1,0 +1,23 @@
+Third-party software and fonts bundled with this site
+======================================================
+
+GSAP 3.15.0 + ScrollTrigger (gsap.min.js, ScrollTrigger.min.js)
+  (c) GreenSock. Used under the GSAP Standard License: https://gsap.com/standard-license
+
+Lenis 1.3.26 (lenis.min.js)
+  (c) Darkroom Engineering. MIT License.
+  https://github.com/darkroomengineering/lenis
+
+Newsreader (assets/fonts/newsreader-*.woff2)
+  (c) The Newsreader Project Authors. SIL Open Font License 1.1.
+  Distributed via Fontsource: https://fontsource.org/fonts/newsreader
+
+Hanken Grotesk (assets/fonts/hanken-grotesk-wght.woff2)
+  (c) The Hanken Grotesk Project Authors. SIL Open Font License 1.1.
+  Distributed via Fontsource: https://fontsource.org/fonts/hanken-grotesk
+
+Martian Mono (assets/fonts/martian-mono-wdth.woff2)
+  (c) The Martian Mono Project Authors. SIL Open Font License 1.1.
+  Distributed via Fontsource: https://fontsource.org/fonts/martian-mono
+
+SIL Open Font License 1.1: https://openfontlicense.org
